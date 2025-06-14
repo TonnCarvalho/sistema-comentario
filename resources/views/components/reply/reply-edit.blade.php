@@ -15,7 +15,7 @@
         Update
     </button>
     <button x-on:click="canEdit=false; errorValidateEdit=''" class="bg-amber-400 p-2 rounded text-xs cursor-pointer">
-        Back to back
+        Back to comments
     </button>
 
 
