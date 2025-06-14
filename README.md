@@ -7,16 +7,22 @@
 
 ## Sobre o projeto
 Aborta um sistema de comentarios, onde é possivel comentar uma publicação e interagir com o outras pessoas respondendo-a.
-Banco de dados utilizado a Migration, popularizado o banco atravez das Seed.
-Gate para gerenciar as autorizações atrávez da rota.
-Policy para gerenciar as autorizações para excluir e editar comentarios que seja apenas do usuário, no front.
-AlpineJS utilizado para melhorar a interação do usuário.
-Tailwind CSS para estilização, utilizando os componentes da biblioteca Flowbite.
 
-Projeto feito para estudo por meio das playlist do [Alexandre Cardoso](https://www.youtube.com/AlexandreCardoso).
+Projeto feito para estudo por meio das vídeos aulas do [Alexandre Cardoso](https://www.youtube.com/AlexandreCardoso).
 
-## Tecnologia utilizada
-- Laravel
-- AlpineJS
-- Tailwind CSS
-	- Flowbite
+## 🛠️ Tecnologias Utilizadas:
+Laravel: Estruturação do backend com migrations, seeds para popular o banco de dados e rotas protegidas com Gates.
+
+Policies: Controle de autorizações para garantir que apenas o dono do comentário possa editá-lo ou excluí-lo.
+
+AlpineJS: Melhoria na interação do usuário, deixando a experiência mais dinâmica e fluida.
+
+Tailwind CSS + Flowbite: Estilização moderna e responsiva, utilizando componentes prontos para agilizar o desenvolvimento.
+
+## 💡 Funcionalidades:
+✅ Comentar publicações
+✅ Responder a outros comentários
+✅ Editar e excluir comentários (apenas do próprio usuário)
+✅ Interface intuitiva e responsiva
+
+Fique à vontade para explorar o código, contribuir ou utilizar como base para seus projetos! Se tiver alguma sugestão ou feedback, adoraria ouvir. 🚀
